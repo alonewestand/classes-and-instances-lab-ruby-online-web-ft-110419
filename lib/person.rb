@@ -2,5 +2,5 @@ class Person
 end
 
 adele_goldberg = Person
-alan_kay = Perosn
+alan_kay = Person
 
